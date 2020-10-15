@@ -1,2 +1,1 @@
-# Applied-data-science-capstone
-Applied data science capstone description
+# Applied-Data-Science-Capstone
